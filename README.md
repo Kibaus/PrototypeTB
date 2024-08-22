@@ -1,4 +1,4 @@
-# Unity_TitansBane
+# TitansBane
 **A Prototype Vertical Slice Demo Project**
 *This project currently follows as a solo project, I'd be interested in creating a solid team when I have something to showcase*
 
